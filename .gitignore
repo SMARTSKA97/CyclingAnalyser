@@ -1,1 +1,7 @@
 /.venv
+/.cycling_analysis_setups.json
+/.cycling_analysis_setups.json.tmp
+/.cycling_block_templates.json
+/.cycling_block_templates.json.tmp
+/.cycling_ride_history.json
+/.cycling_ride_history.json.tmp
